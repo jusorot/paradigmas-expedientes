@@ -22,4 +22,4 @@ Para abordarlo, se crearon las clases:
 
 (ver diagrama de clases)
 
-Nota: La primera seccion del codigo #precarga de expedientes" se hizo para cargar la cantidad deseada de expedientes solo a los fines de probar el codigo.
+Nota: La primera seccion del codigo "precarga de expedientes" se hizo para cargar la cantidad deseada de expedientes solo a los fines de probar el codigo.
