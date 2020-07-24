@@ -21,3 +21,5 @@ Para abordarlo, se crearon las clases:
 * Hora.cls (atributo del expediente con a su vez horas y minutos como atributos).
 
 (ver diagrama de clases)
+
+Nota: La primera seccion del codigo #precarga de expedientes" se hizo para cargar la cantidad deseada de expedientes solo a los fines de probar el codigo.
